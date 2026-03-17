@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "net.liukrast.example.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "example.refmap.json",
+  "refmap": "${mod_id}.refmap.json",
   "mixins": [
   ],
   "client": [
